@@ -29,5 +29,7 @@ public class SwitchCase {
 			System.out.println("달을 입력해주세요");
 			
 		}
+		
+		sc.close();
 	}
 }

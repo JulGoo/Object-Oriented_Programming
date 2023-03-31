@@ -21,5 +21,7 @@ public class ConditionIf {
 		} else {
 			System.out.println("학생이 아닙니다.");
 		}
+		
+		sc.close();
 	}
 }

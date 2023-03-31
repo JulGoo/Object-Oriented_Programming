@@ -3,10 +3,7 @@ package week3;
 public class OneOperand1 {
 	public static void main(String[] args) {
 		int iV1 = +100;
-		int iV2 = -100;
 		double dV1 = +3.14;
-		double dV2 = -10.5;
-		
 		int rs1 = +iV1;
 		int rs2 = -iV1;
 		System.out.println("rs1 = " + rs1);

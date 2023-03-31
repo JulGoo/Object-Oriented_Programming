@@ -26,5 +26,7 @@ public class BodyBMI {
 		
 		System.out.printf("%s님의 키는 %dcm이고, 몸무게는 %dkg입니다.", name, height, weight);
 		System.out.printf("BMI 지수는 %.2f이고 %s입니다.", bmi, result);
+		
+		sc.close();
 	}
 }
